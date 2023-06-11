@@ -1,1 +1,10 @@
+dane={
+  "imie":"Dawid",
+  "nazwisko": "Szarek",
+  "adres": {
+    "miasto": "Wrocław",
+    "kod": "53-603"
+  },
+  "jezyki": ["polski","angielski","Java","R","Python","PL/SQL"]
+}
 
